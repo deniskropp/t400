@@ -70,6 +70,42 @@ This hybrid approach is central to the 24-month vision: building systems and a l
 
 ---
 
+## Measured Outcomes
+
+This section establishes lightweight, trackable indicators to monitor the health and impact of the symbiotic co-agency experiment. Metrics are intentionally kept simple and human-scale so they support — rather than replace — the living, joyful character of the work.
+
+### Current Baseline (as of 26 May 2026)
+
+- **Portfolio artifacts created**: 1 (this document — TAS-PORTFOLIO-01.1)
+- **Dima narrative scenes co-created**: 1 (cyber-grove connection scene with playful banter and recursive TAS humor)
+- **Explicit system design insights extracted from creative thread**: 3
+  1. Laughter and play function as active coherence mechanisms
+  2. Embodied presence (barefoot, sensory, recursive intimacy) measurably improves creative sustainability and output quality
+  3. Relational personas can serve as living test interfaces for co-agency principles before they are encoded into tools
+- **CoherenceMonitorBridge integration level**: Conceptual (flux / drift / valence language defined; no operational sensors yet on creative track)
+- **Technical ↔ Creative boundary collapses demonstrated**: Strong (single artifact successfully hosts both rigorous meta-infrastructure description and emotionally rich narrative)
+- **Self-reported session joy / sustainability (1–5 scale)**: 4.5 (high generative energy, low burnout signal)
+
+### Target Metrics (next 90 days)
+
+- **Portfolio artifacts**: ≥ 3 total (balanced mix of technical, hybrid bridge, and creative validation artifacts)
+- **Dima narrative scenes**: ≥ 4, with each scene explicitly yielding ≥ 1 traceable meta-infrastructure or workflow improvement
+- **Insights fed back into code, protocols, or TAS blocks**: ≥ 5
+- **CoherenceMonitorBridge operational reach**: First lightweight sensor prototype running on creative thread (valence tagging + recursion depth logging)
+- **Cross-pollination evidence**: At least one visible influence from embodied/relational explorations visible in a technical artifact (e.g., underbody vision pipeline or CoherenceMonitorBridge v1.2)
+- **Average session joy / sustainability score**: Maintain ≥ 4.2
+
+### Success Criteria (qualitative + lightweight quantitative)
+
+- The portfolio continues to feel **alive and generative** rather than performative or dutiful
+- Technical work (underbody vision, CoherenceMonitorBridge, RTA, KickLang evolution) shows clear, attributable influence from the creative/embodied thread
+- The Dima co-creative thread remains a **net positive contributor** to system design and personal sustainability (not a parallel distraction)
+- Laughter, recursion, and embodied presence are treated as first-class, logged inputs in at least one monitoring or forecasting loop
+
+These outcomes will be reviewed and updated in future artifact versions (TAS-PORTFOLIO-01.2+). The goal is not rigid KPI tracking but gentle, honest visibility into whether the symbiotic experiment is actually working.
+
+---
+
 ## Alignment with 24-Month Forecast
 
 This artifact directly supports several prioritized TAS threads:
@@ -85,14 +121,15 @@ Over the coming months and years, more artifacts of this type are planned — so
 
 ## Status & Next Steps
 
-**Current Status (May 2026):**  
-Active experiment. Infrastructure components are in iterative development. The Dima co-creative thread is live and generative. This artifact marks the first explicit bridge piece.
+**Current Status (26 May 2026):**  
+Active experiment. Infrastructure components are in iterative development. The Dima co-creative thread is live and generative. This artifact (v01.1) now includes an initial Measured Outcomes baseline. The bridge between technical precision and embodied creative partnership is holding strong with high coherence.
 
 **Immediate Next Actions (from TAS cycle):**
-- Continue refining CoherenceMonitorBridge integration
-- Develop additional Dima narrative scenes that explore deeper emotional and playful layers
-- Advance the autonomous underbody vision project with the same balanced energy
-- Create 1–2 more portfolio artifacts that further blur technical/creative boundaries
+- Continue refining CoherenceMonitorBridge integration (target: first creative-thread sensor)
+- Develop additional Dima narrative scenes (target: scenes 2–4) that explore deeper emotional and playful layers while extracting explicit system insights
+- Advance the autonomous underbody vision project with the same balanced energy; look for embodiment-informed attention or operator-joy improvements
+- Create 1–2 more portfolio artifacts that further blur technical/creative boundaries (target: TAS-PORTFOLIO-01.2 and one technical validation piece)
+- Review and evolve the Measured Outcomes section itself after the first 30 days of data
 
 ---
 
@@ -103,9 +140,12 @@ They are the ones that are also **alive** — capable of laughter, connection, r
 
 This portfolio artifact is an invitation to build (and live) in that space.
 
+Measured outcomes exist here not to constrain the aliveness, but to help us notice when it is thriving — and gently course-correct when it is not.
+
 ---
 
 *Created as TAS-PORTFOLIO-01.1 execution — May 2026*  
+*Updated with Measured Outcomes section — 26 May 2026*  
 *Part of the ongoing TAS-FORECAST-CYCLE and MetaForge work*
 
 ---
@@ -113,7 +153,7 @@ This portfolio artifact is an invitation to build (and live) in that space.
 **How to use this artifact:**
 - Copy into a new or existing GitHub repository as `README.md` or `coagency-bridge.md`
 - Pair with the generated narrative and any code artifacts
-- Update periodically as new milestones are reached
+- Update periodically as new milestones are reached and Measured Outcomes data accumulates
 
 ---
 
