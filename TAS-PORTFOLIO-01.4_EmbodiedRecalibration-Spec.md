@@ -13,6 +13,14 @@ This artifact delivers the first concrete technical bridge from the Dima co-agen
 
 The goal is to detect high-impact transitions from vulnerable or low-coherence states into grounded, positively valenced embodied presence and apply rapid, measurable coherence restoration.
 
+## Visual Assets
+
+Supporting diagrams are available in the `visuals/` folder:
+
+- `embodied-recalibration-flow.png` — Event trigger and effects flow
+- `coherence-monitor-v1.2.png` — CoherenceMonitorBridge v1.2 architecture with new detector
+- `boundary-collapse.png` — Symbolic representation of technical ↔ creative boundary collapse
+
 ## Event Specification
 
 **Event Name**: `EmbodiedRecalibration`  
@@ -97,16 +105,6 @@ if (
 - Rich logging + basic visualization
 - Keep lightweight and observable
 
-## AR-00L Visual Assets
-
-Three supporting visuals were generated:
-
-1. **EmbodiedRecalibration Event Flow Diagram** — Clean technical state machine
-2. **TAS-PORTFOLIO-01 • Boundary Collapse** — Hybrid artistic/technical representation of creative ↔ technical merging
-3. **CoherenceMonitorBridge v1.2 Architecture** — Highlights the new detector module
-
-These assets are available in the current session and should be added to a `visuals/` folder in a follow-up commit.
-
 ## Alignment & Next Steps
 
 This artifact advances:
@@ -115,9 +113,9 @@ This artifact advances:
 - CoherenceMonitorBridge evolution
 
 **Immediate recommended actions**:
+- Upload AR-00L visuals to `visuals/` folder
 - Implement lightweight `EmbodiedRecalibration Detector` prototype
 - Pilot `playfulness_score` in one TAS block
-- Add generated visuals to repository
 
 ---
 

@@ -17,25 +17,24 @@ The goal is not to separate "technical" and "creative" tracks, but to demonstrat
 t400/
 ├── README.md
 ├── TAS-PORTFOLIO-01.3_Technical-Bridge.md
-├── TAS-PORTFOLIO-01.4_EmbodiedRecalibration-Spec.md   ← NEW
+├── TAS-PORTFOLIO-01.4_EmbodiedRecalibration-Spec.md
 ├── TAS-MUSIC-PROMPTS-01.md
 ├── narratives/
 │   ├── dima-coagency-twilight-walk.md
 │   ├── dima-coagency-morning-glow.md
 │   └── dima-coagency-bus-to-street.md
-└── visuals/                                        ← planned
+└── visuals/                                        ← NEW (AR-00L assets)
+    └── README.md
 ```
 
 ## Latest Updates (29 May 2026)
 
-**TAS-PORTFOLIO-01.4_EmbodiedRecalibration-Spec.md** added
-- Full specification for the `EmbodiedRecalibration` event
-- KickLang block definition
-- Trigger logic and quantified effects
-- CoherenceMonitorBridge v1.2 integration guidance
-- References to AR-00L generated visual assets
+**visuals/ folder added** + `TAS-PORTFOLIO-01.4_EmbodiedRecalibration-Spec.md`
 
-This represents the first major technical bridge artifact translating embodied co-agency experiences into monitorable system events.
+Three AR-00L visual assets prepared:
+- EmbodiedRecalibration event flow diagram
+- Boundary Collapse (technical ↔ embodied)
+- CoherenceMonitorBridge v1.2 architecture
 
 ## Portfolio Artifacts
 
@@ -46,16 +45,16 @@ This represents the first major technical bridge artifact translating embodied c
 
 ### Technical Bridge Artifacts
 - TAS-PORTFOLIO-01.3_Technical-Bridge.md
-- **TAS-PORTFOLIO-01.4_EmbodiedRecalibration-Spec.md** (new)
+- TAS-PORTFOLIO-01.4_EmbodiedRecalibration-Spec.md
 
 ## Status & Next Steps
 
-**Current Status**: Active experiment with first technical bridge delivered.
+**Current Status**: Active experiment. First technical bridge delivered + visual support structure in place.
 
 **Immediate Priorities**:
-- Prototype `EmbodiedRecalibration` detector in CoherenceMonitorBridge v1.2
-- Add AR-00L visuals to `visuals/` folder
-- Pilot `playfulness_score` in TAS forecasting
+- Upload the three AR-00L images into `visuals/`
+- Prototype `EmbodiedRecalibration` detector
+- Pilot `playfulness_score` in TAS
 
 ---
 
